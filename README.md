@@ -15,7 +15,7 @@ This is my personal blog
 业务系统| |
 PC端业务系统（>=IE6）|Jquery|Jquery+ArtTemplate
 PC端业务系统（>=IE8）|Jquery|Jquery+ArtTemplate
-PC端业务系统（>=IE9）|Jquery|Jquery+ArtTemplate
+PC端业务系统（>=IE9）|Jquery|Jquery+ArtTemplate 或 vue技术栈 或 React技术栈
 移动端业务系统|Vue|Vue+vue-router+vuex+axios+element-ui
 轻应用| |
 微信移动端|Vue|Vue+vue-router+vuex+axios+mint-ui
