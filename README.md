@@ -20,5 +20,6 @@ PC端业务系统（>=IE9）|Jquery|Jquery+ArtTemplate
 轻应用| |
 微信移动端|Vue|Vue+vue-router+vuex+axios+mint-ui
 钉钉移动端|React|React+ReactRouter+react-dom+reflux+salt-ui
-混合式APP
+微信小程序|MiNA|MiNA
+混合式APP| |
 Hybrid App|Angular|ionic
