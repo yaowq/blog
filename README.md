@@ -8,8 +8,17 @@ This is my personal blog
 
 项目方向|核心技术|技术栈
 ---|---|---
+管理系统| |
 管理系统（>=IE6）|Jquery|Jquery+各种插件
 管理系统（>=IE8）|AngularJS|AngularJS+ngBootstrap
 管理系统（>=IE9）|Vue|Vue+vue-router+vuex+axios+element-ui
+业务系统| |
+PC端业务系统（>=IE6）|Jquery|Jquery+ArtTemplate
+PC端业务系统（>=IE8）|Jquery|Jquery+ArtTemplate
+PC端业务系统（>=IE9）|Jquery|Jquery+ArtTemplate
+移动端业务系统|Vue|Vue+vue-router+vuex+axios+element-ui
+轻应用| |
 微信移动端|Vue|Vue+vue-router+vuex+axios+mint-ui
 钉钉移动端|React|React+ReactRouter+react-dom+reflux+salt-ui
+混合式APP
+Hybrid App|Angular|ionic
