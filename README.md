@@ -5,6 +5,7 @@ This is my personal blog
 ### [怎样快速的去掌握一个框架](https://github.com/yaowq/blog/issues/4)
 ### [javascript的那些坑](https://github.com/yaowq/blog/issues/5)
 ### [基于cordova的HybridApp原理剖析](https://github.com/yaowq/blog/issues/6)
+### [构建网站图标系统](https://github.com/yaowq/blog/issues/7)
 ## 读后感（精准定位，快速剖析核心思想）
 ### [微信公开课之微信小程序](https://github.com/yaowq/blog/issues/1)
 ## 技术选型
