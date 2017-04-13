@@ -6,6 +6,7 @@ This is my personal blog
 ### [javascript的那些坑](https://github.com/yaowq/blog/issues/5)
 ### [基于cordova的HybridApp原理剖析](https://github.com/yaowq/blog/issues/6)
 ### [构建网站图标系统](https://github.com/yaowq/blog/issues/7)
+### [前端自动化代码质量检测实践](https://github.com/yaowq/blog/issues/8)
 ## 读后感（精准定位，快速剖析核心思想）
 ### [微信公开课之微信小程序](https://github.com/yaowq/blog/issues/1)
 ## 技术选型
